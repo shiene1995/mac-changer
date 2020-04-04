@@ -1,7 +1,7 @@
 
 sudo apt update && sudo apt install macchanger
 
-git clone https?wait
+git clone https://github.com/shiene1995/mac-changer.git
 
 cd macchanger/
 
